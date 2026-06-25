@@ -1,0 +1,6 @@
+# requirements.txt
+# Install all dependencies with:
+#   pip install -r requirements.txt
+
+requests    # HTTP requests to the OpenWeatherMap API
+colorama    # Colourful terminal output (optional but recommended)
